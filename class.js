@@ -16,7 +16,8 @@ function Class(o) {
     return classify(o)
   }
 }
-
+Name - Shruti Banerjee
+Course- Version Control
 module.exports = Class
 
 
